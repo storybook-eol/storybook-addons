@@ -33,14 +33,6 @@ export class AddonStore {
     return this._get('preview');
   }
 
-  setPreviewDecorator(decorator, name) {
-    this._set('preview decorator', decorator, name);
-  }
-
-  getPreviewDecorator() {
-    return this._get('preview decorator');
-  }
-
   addPanel(name, panel) {
     this._panels[name] = panel;
   }
