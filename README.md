@@ -1,10 +1,9 @@
 # Storybook Addons
 
-Storybook Addons is a node module which is used to load custom addons to storybook. It stores addon loaders, communication channel and other resources which can be used by storybook implementations where required.
+This contents of this repo was moved to the [Storybook monorepo](https://github.com/storybooks/storybook/) and the NPM package name has been changed.
 
---- 
+- The old name of the package was: **@kadira/storybook/addons**
+- The new name of the package is: **@storybook/addons**
+- The location of the code is: https://github.com/storybooks/storybook/tree/master/lib/addons
 
-**This repo has been deprecated because it's now included in https://github.com/storybooks/storybook**
-
----
-
+The repo you're looking at now is out of date and no longer maintained.
